@@ -17,8 +17,6 @@ A simple, responsive **Login & Signup** form built using **Tailwind CSS** and **
 ![login](<Screenshot 2025-02-09 at 21.58.17.png>)
 ![signup](<Screenshot 2025-02-09 at 21.58.24.png>)
 
-## 🌍 Live Demo
-[Live Project](your-live-demo-link-here)
 
 ## 📂 Project Structure
 ```bash
@@ -29,9 +27,7 @@ A simple, responsive **Login & Signup** form built using **Tailwind CSS** and **
 
 ## 📦 Setup & Installation
 ```sh
-git clone https://github.com/yourusername/login-signup-tailwind.git
-cd login-signup-tailwind
-open index.html
+git clone https://github.com/Devansh1974/Signup-login-Page-Tailwind-.git
 ```
 
 
